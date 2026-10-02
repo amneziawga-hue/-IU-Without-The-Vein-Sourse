@@ -1,0 +1,12 @@
+[
+  {
+    "modid": "iu_no_surface_deposits",
+    "name": "IU No Surface Deposits",
+    "description": "Stops Industrial Upgrade surface ore deposit markers from generating. Adds no blocks or items.",
+    "version": "1.0.0",
+    "mcversion": "1.12.2",
+    "dependencies": [
+      "required-after:industrialupgrade@[3.3.0.47,3.3.0.48)"
+    ]
+  }
+]
